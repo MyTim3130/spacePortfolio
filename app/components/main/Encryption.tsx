@@ -11,12 +11,12 @@ const Encryption = () => {
           variants={slideInFromTop}
           className="text-[40px] font-medium text-center text-gray-200"
         >
-          Performance
+          Intellegence
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
             {" "}
             &{" "}
           </span>
-          Security
+          Broad Skillset
         </motion.div>
       </div>
 
@@ -39,13 +39,13 @@ const Encryption = () => {
         </div>
 
         <div className="Welcome-box px-[15px] py-[4px] z-[20] border my-[20px] border-[#7042f88b] opacity-[0.9]">
-          <h2 className="Welcome-text text-[12px]">Encryption</h2>
+          <h2 className="Welcome-text text-[12px]">Trust</h2>
         </div>
       </div>
 
       <div className="absolute z-[20] bottom-[10px] px-[5px]">
         <div className="cursive text-[20px] font-medium text-center text-gray-300">
-          Secure your Data with end-to-end encryption
+          Choose the people near you right
         </div>
       </div>
 
