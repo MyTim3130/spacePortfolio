@@ -47,7 +47,7 @@ export const HeroContent = () => {
           >
             I&apos;m a passionate web developer and technology
             enthusiast dedicated to crafting seamless digital experiences. With
-            a robust skill set in HTML, CSS, JavaScript, React, Rive, GSAP and much more.
+            a robust skill set in HTML, CSS, JavaScript, React and other utilities,
             I specialize in creating interactive and dynamic websites that are
             both aesthetically pleasing and functionally robust.
           </motion.p>
